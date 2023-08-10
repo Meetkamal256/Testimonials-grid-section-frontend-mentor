@@ -12,6 +12,8 @@ body{
 #testimonial-1{
     background-color: #7541c8;
     color: #fff;
+    position: relative;
+    z-index: 0;
 
 }
 
@@ -53,6 +55,7 @@ body{
 
 .grid-item p{
     opacity: 70%;
+    z-index: 3;
 }
 
 .header .name{
@@ -72,6 +75,15 @@ body{
 .header{
     display:flex;
     align-items: center;
+    z-index: 2;
+    position: relative;
+}
+
+#quote{
+    position: absolute;
+    right: 15%;
+    top: 0;
+    z-index: 1;
 }
 
 @media (min-width: 576px){
