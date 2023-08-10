@@ -58,6 +58,13 @@ body{
     z-index: 3;
 }
 
+.header{
+    display:flex;
+    align-items: center;
+    z-index: 2;
+    position: relative;
+}
+
 .header .name{
     opacity: 100%;
     font-size: 1rem;
@@ -70,13 +77,6 @@ body{
     box-shadow: 0px 4px 7px rgba(0,0,0,0.4);
     margin-right: 7px;
     margin-bottom: 20px;
-}
-
-.header{
-    display:flex;
-    align-items: center;
-    z-index: 2;
-    position: relative;
 }
 
 #quote{
