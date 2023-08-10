@@ -1,4 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
+
+![testimonial-grid-section](https://github.com/Meetkamal256/Testimonials-grid-section-frontend-mentor/assets/104779844/0013c6ad-8c58-4e73-ab65-7d5e4b5e5be4)
 ## Overview
 This challenge will be perfect practice for anyone wanting to test their CSS Flex box skills. The main challenge is to build out this testimonials grid section and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
