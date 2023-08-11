@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Meetkamal256/Testimonials-grid-section-frontend-mentor
+- Live Site URL:  https://meetkamal256.github.io/Testimonials-grid-section-frontend-mentor/
 
 ### Built with
 - Semantic HTML5 markup
